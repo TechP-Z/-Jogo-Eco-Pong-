@@ -1,0 +1,41 @@
+C:\Users\55119\source\repos\Projeto Jogo Eco Pong\Projeto Jogo Eco Pong\bin\Debug\Projeto Jogo Eco Pong.exe.config
+C:\Users\55119\source\repos\Projeto Jogo Eco Pong\Projeto Jogo Eco Pong\bin\Debug\Projeto Jogo Eco Pong.exe
+C:\Users\55119\source\repos\Projeto Jogo Eco Pong\Projeto Jogo Eco Pong\bin\Debug\Projeto Jogo Eco Pong.pdb
+C:\Users\55119\source\repos\Projeto Jogo Eco Pong\Projeto Jogo Eco Pong\obj\Debug\Projeto Jogo Eco Pong.csproj.AssemblyReference.cache
+C:\Users\55119\source\repos\Projeto Jogo Eco Pong\Projeto Jogo Eco Pong\obj\Debug\Projeto_Jogo_Eco_Pong.Form1.resources
+C:\Users\55119\source\repos\Projeto Jogo Eco Pong\Projeto Jogo Eco Pong\obj\Debug\Projeto_Jogo_Eco_Pong.Properties.Resources.resources
+C:\Users\55119\source\repos\Projeto Jogo Eco Pong\Projeto Jogo Eco Pong\obj\Debug\Projeto Jogo Eco Pong.csproj.GenerateResource.cache
+C:\Users\55119\source\repos\Projeto Jogo Eco Pong\Projeto Jogo Eco Pong\obj\Debug\Projeto Jogo Eco Pong.csproj.CoreCompileInputs.cache
+C:\Users\55119\source\repos\Projeto Jogo Eco Pong\Projeto Jogo Eco Pong\obj\Debug\Projeto Jogo Eco Pong.exe
+C:\Users\55119\source\repos\Projeto Jogo Eco Pong\Projeto Jogo Eco Pong\obj\Debug\Projeto Jogo Eco Pong.pdb
+C:\Users\55119\source\repos\Projeto Jogo Eco Pong\Projeto Jogo Eco Pong\obj\Debug\Projeto Jogo Eco Pong.exe.config
+D:\2_Modulo\Jogo_Eco-Pong\Projeto_Oficial_beta\Projeto Jogo Eco Pong\Projeto Jogo Eco Pong\bin\Debug\Projeto Jogo Eco Pong.exe.config
+D:\2_Modulo\Jogo_Eco-Pong\Projeto_Oficial_beta\Projeto Jogo Eco Pong\Projeto Jogo Eco Pong\bin\Debug\Projeto Jogo Eco Pong.exe
+D:\2_Modulo\Jogo_Eco-Pong\Projeto_Oficial_beta\Projeto Jogo Eco Pong\Projeto Jogo Eco Pong\bin\Debug\Projeto Jogo Eco Pong.pdb
+D:\2_Modulo\Jogo_Eco-Pong\Projeto_Oficial_beta\Projeto Jogo Eco Pong\Projeto Jogo Eco Pong\obj\Debug\Projeto_Jogo_Eco_Pong.Form1.resources
+D:\2_Modulo\Jogo_Eco-Pong\Projeto_Oficial_beta\Projeto Jogo Eco Pong\Projeto Jogo Eco Pong\obj\Debug\Projeto_Jogo_Eco_Pong.Properties.Resources.resources
+D:\2_Modulo\Jogo_Eco-Pong\Projeto_Oficial_beta\Projeto Jogo Eco Pong\Projeto Jogo Eco Pong\obj\Debug\Projeto Jogo Eco Pong.csproj.GenerateResource.cache
+D:\2_Modulo\Jogo_Eco-Pong\Projeto_Oficial_beta\Projeto Jogo Eco Pong\Projeto Jogo Eco Pong\obj\Debug\Projeto Jogo Eco Pong.csproj.CoreCompileInputs.cache
+D:\2_Modulo\Jogo_Eco-Pong\Projeto_Oficial_beta\Projeto Jogo Eco Pong\Projeto Jogo Eco Pong\obj\Debug\Projeto Jogo Eco Pong.exe
+D:\2_Modulo\Jogo_Eco-Pong\Projeto_Oficial_beta\Projeto Jogo Eco Pong\Projeto Jogo Eco Pong\obj\Debug\Projeto Jogo Eco Pong.pdb
+E:\2_Modulo\Jogo_Eco-Pong\Projeto_Oficial_beta\Projeto Jogo Eco Pong\Projeto Jogo Eco Pong\bin\Debug\Projeto Jogo Eco Pong.exe.config
+E:\2_Modulo\Jogo_Eco-Pong\Projeto_Oficial_beta\Projeto Jogo Eco Pong\Projeto Jogo Eco Pong\bin\Debug\Projeto Jogo Eco Pong.exe
+E:\2_Modulo\Jogo_Eco-Pong\Projeto_Oficial_beta\Projeto Jogo Eco Pong\Projeto Jogo Eco Pong\bin\Debug\Projeto Jogo Eco Pong.pdb
+E:\2_Modulo\Jogo_Eco-Pong\Projeto_Oficial_beta\Projeto Jogo Eco Pong\Projeto Jogo Eco Pong\obj\Debug\Projeto Jogo Eco Pong.csprojAssemblyReference.cache
+E:\2_Modulo\Jogo_Eco-Pong\Projeto_Oficial_beta\Projeto Jogo Eco Pong\Projeto Jogo Eco Pong\obj\Debug\Projeto_Jogo_Eco_Pong.Form1.resources
+E:\2_Modulo\Jogo_Eco-Pong\Projeto_Oficial_beta\Projeto Jogo Eco Pong\Projeto Jogo Eco Pong\obj\Debug\Projeto_Jogo_Eco_Pong.Properties.Resources.resources
+E:\2_Modulo\Jogo_Eco-Pong\Projeto_Oficial_beta\Projeto Jogo Eco Pong\Projeto Jogo Eco Pong\obj\Debug\Projeto Jogo Eco Pong.csproj.GenerateResource.cache
+E:\2_Modulo\Jogo_Eco-Pong\Projeto_Oficial_beta\Projeto Jogo Eco Pong\Projeto Jogo Eco Pong\obj\Debug\Projeto Jogo Eco Pong.csproj.CoreCompileInputs.cache
+E:\2_Modulo\Jogo_Eco-Pong\Projeto_Oficial_beta\Projeto Jogo Eco Pong\Projeto Jogo Eco Pong\obj\Debug\Projeto Jogo Eco Pong.exe
+E:\2_Modulo\Jogo_Eco-Pong\Projeto_Oficial_beta\Projeto Jogo Eco Pong\Projeto Jogo Eco Pong\obj\Debug\Projeto Jogo Eco Pong.pdb
+F:\2_Modulo\Jogo_Eco-Pong\Projeto_Oficial_beta\Projeto Jogo Eco Pong\Projeto Jogo Eco Pong\bin\Debug\Projeto Jogo Eco Pong.exe.config
+F:\2_Modulo\Jogo_Eco-Pong\Projeto_Oficial_beta\Projeto Jogo Eco Pong\Projeto Jogo Eco Pong\bin\Debug\Projeto Jogo Eco Pong.exe
+F:\2_Modulo\Jogo_Eco-Pong\Projeto_Oficial_beta\Projeto Jogo Eco Pong\Projeto Jogo Eco Pong\bin\Debug\Projeto Jogo Eco Pong.pdb
+F:\2_Modulo\Jogo_Eco-Pong\Projeto_Oficial_beta\Projeto Jogo Eco Pong\Projeto Jogo Eco Pong\obj\Debug\Projeto Jogo Eco Pong.csprojAssemblyReference.cache
+F:\2_Modulo\Jogo_Eco-Pong\Projeto_Oficial_beta\Projeto Jogo Eco Pong\Projeto Jogo Eco Pong\obj\Debug\Projeto_Jogo_Eco_Pong.Form1.resources
+F:\2_Modulo\Jogo_Eco-Pong\Projeto_Oficial_beta\Projeto Jogo Eco Pong\Projeto Jogo Eco Pong\obj\Debug\Projeto_Jogo_Eco_Pong.Properties.Resources.resources
+F:\2_Modulo\Jogo_Eco-Pong\Projeto_Oficial_beta\Projeto Jogo Eco Pong\Projeto Jogo Eco Pong\obj\Debug\Projeto Jogo Eco Pong.csproj.GenerateResource.cache
+F:\2_Modulo\Jogo_Eco-Pong\Projeto_Oficial_beta\Projeto Jogo Eco Pong\Projeto Jogo Eco Pong\obj\Debug\Projeto Jogo Eco Pong.csproj.CoreCompileInputs.cache
+F:\2_Modulo\Jogo_Eco-Pong\Projeto_Oficial_beta\Projeto Jogo Eco Pong\Projeto Jogo Eco Pong\obj\Debug\Projeto Jogo Eco Pong.exe
+F:\2_Modulo\Jogo_Eco-Pong\Projeto_Oficial_beta\Projeto Jogo Eco Pong\Projeto Jogo Eco Pong\obj\Debug\Projeto Jogo Eco Pong.pdb
+D:\2_Modulo\Jogo_Eco-Pong\Projeto_Oficial_beta\Projeto Jogo Eco Pong\Projeto Jogo Eco Pong\obj\Debug\Projeto Jogo Eco Pong.csprojAssemblyReference.cache

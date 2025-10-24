@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5221bc0e-6117-4567-8b39-fa34f68cd3c0": {
+      "ProjectGuid": "5221bc0e-6117-4567-8b39-fa34f68cd3c0",
+      "DisplayName": "Projeto Jogo Eco Pong",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
